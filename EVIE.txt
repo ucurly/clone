@@ -1,0 +1,1 @@
+vless://77e2399a-d8b6-4a35-eab7-40f78a93918b@one.evies.cloud:35493?path=%2F&security=tls&encryption=none&host=one.evies.cloud&type=ws&sni=one.evies.cloud#%F0%9F%87%B3%F0%9F%87%B1+EvieCloud
